@@ -1,0 +1,12 @@
+# Mengabaikan virtual environment
+env/
+venv/
+.env
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+# Mengabaikan file sistem MacOS/Windows
+.DS_Store
+Thumbs.db
