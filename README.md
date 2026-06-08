@@ -1,6 +1,6 @@
-# 🐚 KerangID - Native Clam Species Classifier
+# 🐚 MolluscTech - Native Clam Species Classifier
 
-KerangID is an end-to-end web application developed to automatically identify and classify native clam species. This project effectively demonstrates the integration of deep learning models into a functional web environment to solve real-world regional identification challenges.
+MolluscTech is an end-to-end web application developed to automatically identify and classify native clam species. This project effectively demonstrates the integration of deep learning models into a functional web environment to solve real-world regional identification challenges.
 
 The system integrates two deep learning models: a lightweight **MobileNet** architecture to detect and filter out non-clam objects, and a custom **Convolutional Neural Network (CNN)** for specific species classification, ensuring highly efficient deployment and accurate results.
 
